@@ -1,4 +1,8 @@
+# Environment variables
 .env
+
+# Ignore
+.gitignore
 
 # Python
 __pycache__/
@@ -21,3 +25,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+
+# examples
+test_cases/
+test_cases/example.pdf
